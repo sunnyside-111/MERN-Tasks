@@ -1,0 +1,38 @@
+#circle {
+    border-radius:50%;
+    width:200px;
+    height:200px;
+    margin: 20px;
+}
+table{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 8px;
+}
+tr,td{
+    padding: 4px;
+}
+#i1, #i2, #i4s{
+    width: 400px;
+    box-sizing: border-box;
+    padding: 8px;
+}
+#i3{
+    width: 400px;
+    background-color:#04AA6D;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+}
+#i5{
+    background-color: rgb(238, 36, 36);
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 80px;
+    border-radius: 4px;
+}
+#i6{
+    text-align: right;
+    color: black;
+}

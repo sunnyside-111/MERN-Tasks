@@ -1,0 +1,17 @@
+table{
+    background-color:rgb(139, 4, 49);
+    color:white;
+    width: 400px;
+    padding: 20px 50px;
+    margin: 100px;
+}
+tr,td{
+    padding: 4px;
+}
+#i1{
+    width: 300px;
+    padding: 4px;
+}
+body{
+    background-color: rgb(154, 16, 103);
+}

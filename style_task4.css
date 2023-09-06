@@ -1,0 +1,33 @@
+#sideNav a{
+    position: absolute; /*relative to the browser window*/
+    left: -80px;
+    transition: 0.3s;
+    text-decoration: none;
+    width: 90px;
+    padding: 15px;
+    color: black;
+    border-radius: 8px;
+}
+#sideNav a:hover{
+    left: 0;
+}
+p, h1{
+    margin-left: 140px;
+    padding: 0;
+}
+#home{
+    top: 20px;
+    background-color: darkseagreen;
+}
+#css{
+    top: 80px;
+    background-color:cornflowerblue;
+}
+#html{
+    top: 140px;
+    background-color:crimson;
+}
+#bs{
+    top: 200px;
+    background-color:darkslategrey;
+}
